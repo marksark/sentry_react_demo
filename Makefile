@@ -3,7 +3,7 @@
 # SENTRY_AUTH_TOKEN
 
 SENTRY_ORG=mark-org
-SENTRY_PROJECT=mark-demo
+SENTRY_PROJECT=mark-demo-react
 
 VERSION=`sentry-cli releases propose-version`
 PREFIX=static/js
